@@ -1,5 +1,5 @@
 # Ayub-Research-College
-"OfGovt College for Women Ayub Research - Web Portal 🎓
+"Govt College for Women Ayub Research - Web Portal 🎓
 This is a professional, full-stack web application developed for Govt College for Women Ayub Research, Faisalabad. The platform is designed to streamline the student admission inquiry process and provide an official digital presence for the institution.
 
 Features
